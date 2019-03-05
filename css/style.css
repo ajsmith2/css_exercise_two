@@ -1,11 +1,10 @@
 
 /*Changed background color to white, then text to Japanese Indigo; changed
-font-size to 16px in body; increased line-height for legibility*/
+font-size to 16px in body*/
 body {
   background-color: #ffffff;
   color: #2C3C43;
   font-size: 16px;
-  line-height: 1.2em;
 }
 
 nav {
